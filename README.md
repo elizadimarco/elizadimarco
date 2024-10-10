@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Eliza! 👋
+
+I am a fourth-year Computer Science major at Georgia Tech pursuing a career in software engineering!
+
+# 📫 How to reach me: 
+- Email: edimarcodev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/elizadimarco/)
 
 <!--
 **elizadimarco/elizadimarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
