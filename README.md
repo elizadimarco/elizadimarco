@@ -1,6 +1,6 @@
 ## Hi, I'm Eliza! 👋
 
-Associate Software Engineer @ Chainguard ⛓️🐙
+Associate Software Engineer @ Chainguard ⛓️🐙  
 CS @ Georgia Tech 🐝
 
 ### 📫 How to reach me: 
