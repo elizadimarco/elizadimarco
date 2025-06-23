@@ -1,6 +1,7 @@
 ## Hi, I'm Eliza! 👋
 
-I am a fourth-year Computer Science major at Georgia Tech pursuing a career in software engineering!
+Associate Software Engineer @ Chainguard ⛓️🐙
+CS @ Georgia Tech 🐝
 
 ### 📫 How to reach me: 
 - Email: edimarcodev@gmail.com
